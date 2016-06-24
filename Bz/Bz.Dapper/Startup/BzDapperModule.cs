@@ -9,7 +9,7 @@ namespace Bz.Dapper
         public override void Initialize()
         {
             IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
-            //IocManager.IocContainer.ke
+            //IocManager.IocContainer
         }
     }
 }
