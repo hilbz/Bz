@@ -43,6 +43,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Xml.Linq" />
@@ -53,12 +54,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Configs\DbConfigType.cs" />
     <Compile Include="Dapper\DapperWrapper\TransactionScopeWrapper.cs" />
     <Compile Include="Dapper\DapperWrapper\SqlExecutorFactory.cs" />
     <Compile Include="Dapper\DapperWrapper\SqlExecutor.cs" />
     <Compile Include="Dapper\DapperWrapper\ITransactionScope.cs" />
     <Compile Include="Dapper\DapperWrapper\IDbExecutorFactory.cs" />
     <Compile Include="Dapper\DapperWrapper\IDbExecutor.cs" />
+    <Compile Include="Extensions\DapperWrapperExtensions.cs" />
     <Compile Include="Startup\BzDapperModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
