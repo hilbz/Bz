@@ -8,5 +8,7 @@ namespace SimpleDemo.Application
     public interface ILbzService: IApplicationService
     {
         Task<IList<Lbz>> GetAll();
+
+        Task<IList<TestTable>> GetTestAll();
     }
 }

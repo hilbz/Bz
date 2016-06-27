@@ -78,8 +78,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EntityFramework\Mapping\BzEntityTypeConfiguration.cs" />
+    <Compile Include="EntityFramework\Mapping\TestTableMap.cs" />
     <Compile Include="EntityFramework\Mapping\LbzMap.cs" />
     <Compile Include="EntityFramework\Repositories\SimpleDemoRepositoryBase.cs" />
+    <Compile Include="EntityFramework\SimpleSecondDbContext.cs" />
     <Compile Include="Migrations\201606170626443_InitialLbz.cs" />
     <Compile Include="Migrations\201606170626443_InitialLbz.Designer.cs">
       <DependentUpon>201606170626443_InitialLbz.cs</DependentUpon>

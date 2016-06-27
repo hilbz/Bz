@@ -2,6 +2,7 @@
 using Bz.EntityFramework;
 using Bz.Modules;
 using SimpleDemo.Core;
+using System.Data.Entity;
 using System.Reflection;
 
 namespace SimpleDemo.EntityFramework
@@ -22,6 +23,7 @@ namespace SimpleDemo.EntityFramework
         public override void Initialize()
         {
             IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
+            Database.SetInitializer<SimpleDemoDbContext>(null);
         }
     }
 }

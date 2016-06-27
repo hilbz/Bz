@@ -21,6 +21,7 @@ namespace SimpleDemo.Web.Controllers
         public async Task<ActionResult> Index()
         {
             var result = await _lbzService.GetAll();
+            var result1 = await _lbzService.GetTestAll();
             return View();
         }
 

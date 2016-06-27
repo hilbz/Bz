@@ -76,7 +76,6 @@ D:\Git\Bz\Bz\bin\Debug\Nito.AsyncEx.xml
 D:\Git\Bz\Bz\bin\Debug\Nito.AsyncEx.Concurrent.xml
 D:\Git\Bz\Bz\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 D:\Git\Bz\Bz\bin\Debug\System.Collections.Immutable.xml
-D:\Git\Bz\Bz\obj\Debug\Bz.csprojResolveAssemblyReference.cache
 D:\Git\Bz\Bz\obj\Debug\Bz.dll
 D:\Git\Bz\Bz\obj\Debug\Bz.pdb
 E:\Bz\Bz\Bz\bin\Debug\Bz.dll
@@ -98,3 +97,4 @@ E:\Bz\Bz\Bz\bin\Debug\System.Collections.Immutable.xml
 E:\Bz\Bz\Bz\obj\Debug\Bz.csprojResolveAssemblyReference.cache
 E:\Bz\Bz\Bz\obj\Debug\Bz.dll
 E:\Bz\Bz\Bz\obj\Debug\Bz.pdb
+D:\Git\Bz\Bz\obj\Debug\Bz.csprojResolveAssemblyReference.cache
