@@ -397,3 +397,10 @@ D:\Git\Bz\SimpleDemo.Web\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.re
 D:\Git\Bz\SimpleDemo.Web\obj\Debug\SimpleDemo.Web.csprojResolveAssemblyReference.cache
 D:\Git\Bz\SimpleDemo.Web\obj\Debug\SimpleDemo.Web.dll
 D:\Git\Bz\SimpleDemo.Web\obj\Debug\SimpleDemo.Web.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Dapper.dll
+D:\Git\Bz\SimpleDemo.Web\bin\Bz.Dapper.dll
+D:\Git\Bz\SimpleDemo.Web\bin\Dapper.dll
+D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Dapper.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\Bz.Dapper.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\Dapper.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\Dapper.xml

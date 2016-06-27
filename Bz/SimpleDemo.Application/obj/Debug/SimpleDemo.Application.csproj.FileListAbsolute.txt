@@ -55,3 +55,10 @@ D:\Git\Bz\SimpleDemo.Application\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 D:\Git\Bz\SimpleDemo.Application\obj\Debug\SimpleDemo.Application.csprojResolveAssemblyReference.cache
 D:\Git\Bz\SimpleDemo.Application\obj\Debug\SimpleDemo.Application.dll
 D:\Git\Bz\SimpleDemo.Application\obj\Debug\SimpleDemo.Application.pdb
+D:\Git\Bz\SimpleDemo.Application\bin\Debug\SimpleDemo.Dapper.dll
+D:\Git\Bz\SimpleDemo.Application\bin\Debug\Bz.Dapper.dll
+D:\Git\Bz\SimpleDemo.Application\bin\Debug\Dapper.dll
+D:\Git\Bz\SimpleDemo.Application\bin\Debug\SimpleDemo.Dapper.pdb
+D:\Git\Bz\SimpleDemo.Application\bin\Debug\Bz.Dapper.pdb
+D:\Git\Bz\SimpleDemo.Application\bin\Debug\Dapper.pdb
+D:\Git\Bz\SimpleDemo.Application\bin\Debug\Dapper.xml

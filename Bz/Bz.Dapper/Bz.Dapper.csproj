@@ -54,12 +54,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Configuration\DbConfiguration.cs" />
     <Compile Include="Dapper\DapperWrapper\TransactionScopeWrapper.cs" />
     <Compile Include="Dapper\DapperWrapper\SqlExecutorFactory.cs" />
     <Compile Include="Dapper\DapperWrapper\SqlExecutor.cs" />
     <Compile Include="Dapper\DapperWrapper\ITransactionScope.cs" />
     <Compile Include="Dapper\DapperWrapper\IDbExecutorFactory.cs" />
     <Compile Include="Dapper\DapperWrapper\IDbExecutor.cs" />
+    <Compile Include="Extensions\DapperWrapperExtensions.cs" />
     <Compile Include="Startup\BzDapperModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -69,10 +71,7 @@
       <Name>Bz</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Configs\" />
-    <Folder Include="Extensions\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>

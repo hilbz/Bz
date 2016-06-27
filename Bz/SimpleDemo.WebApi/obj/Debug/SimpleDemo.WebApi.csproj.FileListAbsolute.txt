@@ -106,3 +106,10 @@ D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.
 D:\Git\Bz\SimpleDemo.WebApi\obj\Debug\SimpleDemo.WebApi.csprojResolveAssemblyReference.cache
 D:\Git\Bz\SimpleDemo.WebApi\obj\Debug\SimpleDemo.WebApi.dll
 D:\Git\Bz\SimpleDemo.WebApi\obj\Debug\SimpleDemo.WebApi.pdb
+D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\SimpleDemo.Dapper.dll
+D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\Bz.Dapper.dll
+D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\Dapper.dll
+D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\SimpleDemo.Dapper.pdb
+D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\Bz.Dapper.pdb
+D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\Dapper.pdb
+D:\Git\Bz\SimpleDemo.WebApi\bin\Debug\Dapper.xml

@@ -1,4 +1,5 @@
-﻿using Bz.DapperWrapper;
+﻿using Bz.Dapper.Configuration;
+using Bz.DapperWrapper;
 using Bz.Modules;
 using Castle.MicroKernel.Registration;
 using System.Configuration;
@@ -12,13 +13,13 @@ namespace Bz.Dapper
         public override void Initialize()
         {
             IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
-            //IocManager.IocContainer.Register(
-            //    Component.For<IDbExecutorFactory, SqlExecutorFactory>()
-            //        .UsingFactoryMethod(
-            //           () =>
-            //              new SqlExecutorFactory(
-            //                  ConfigurationManager.ConnectionStrings[DbConfiguration.GetConnectionName(DbConfigType.Default)].ToString())
-            //                  ).LifestyleTransient());
+            IocManager.IocContainer.Register(
+                Component.For<IDbExecutorFactory, SqlExecutorFactory>()
+                    .UsingFactoryMethod(
+                       () =>
+                          new SqlExecutorFactory(
+                              ConfigurationManager.ConnectionStrings[DbConfiguration.GetConnectionName(DbConfigType.Default)].ToString())
+                              ).LifestyleTransient());
         }
     }
 }

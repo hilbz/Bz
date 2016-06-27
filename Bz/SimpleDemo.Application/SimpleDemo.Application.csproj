@@ -55,6 +55,10 @@
       <Project>{1b53340d-9817-4e2d-b456-2f6d63af0f84}</Project>
       <Name>SimpleDemo.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SimpleDemo.Dapper\SimpleDemo.Dapper.csproj">
+      <Project>{992d2a91-4f0e-4025-b819-bf0994f07a9e}</Project>
+      <Name>SimpleDemo.Dapper</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
