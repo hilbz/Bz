@@ -118,9 +118,9 @@ D:\Bz\SimpleDemo.Tests\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 D:\Bz\SimpleDemo.Tests\obj\Debug\SimpleDemo.Tests.csprojResolveAssemblyReference.cache
 D:\Bz\SimpleDemo.Tests\obj\Debug\SimpleDemo.Tests.dll
 D:\Bz\SimpleDemo.Tests\obj\Debug\SimpleDemo.Tests.pdb
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.abstractions.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.runner.utility.desktop.dll
-D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.abstractions.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\SimpleDemo.Tests.dll.config
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\SimpleDemo.Tests.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\SimpleDemo.Tests.pdb
@@ -148,6 +148,9 @@ D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.assert.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.core.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.execution.desktop.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\System.Collections.Immutable.dll
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\SimpleDemo.Dapper.dll
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Bz.Dapper.dll
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Dapper.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Bz.EntityFramework.pdb
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Bz.TestBase.pdb
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Bz.pdb
@@ -173,6 +176,10 @@ D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.core.xml
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.execution.desktop.pdb
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\xunit.execution.desktop.xml
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\System.Collections.Immutable.xml
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\SimpleDemo.Dapper.pdb
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Bz.Dapper.pdb
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Dapper.pdb
+D:\Git\Bz\SimpleDemo.Tests\bin\Debug\Dapper.xml
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\zh-Hans\EntityFramework.resources.dll
 D:\Git\Bz\SimpleDemo.Tests\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 D:\Git\Bz\SimpleDemo.Tests\obj\Debug\SimpleDemo.Tests.csprojResolveAssemblyReference.cache

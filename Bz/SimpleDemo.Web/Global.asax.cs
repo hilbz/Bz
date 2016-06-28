@@ -2,6 +2,7 @@
 using Bz.Reflection;
 using Bz.Web;
 using Castle.Facilities.Logging;
+using SimpleDemo.Web.Models;
 using System;
 
 namespace SimpleDemo.Web
@@ -16,7 +17,7 @@ namespace SimpleDemo.Web
                 .AddFacility<LoggingFacility>(f => f.UseLog4Net()
                     .WithConfig("log4net.config")
                 );
-
+            InitailAutoMapper.Initail();
             base.Application_Start(sender, e);
         }
     }

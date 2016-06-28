@@ -264,6 +264,8 @@ D:\Bz\SimpleDemo.Web\bin\log4net.xml
 D:\Bz\SimpleDemo.Web\bin\Nito.AsyncEx.xml
 D:\Bz\SimpleDemo.Web\bin\System.Collections.Immutable.xml
 D:\Bz\SimpleDemo.Web\bin\Nito.AsyncEx.Enlightenment.xml
+D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Git\Bz\SimpleDemo.Web\bin\AutoMapper.Net4.dll
 D:\Git\Bz\SimpleDemo.Web\bin\roslyn\csc.exe
 D:\Git\Bz\SimpleDemo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Git\Bz\SimpleDemo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -280,6 +282,7 @@ D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Web.dll.config
 D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Web.dll
 D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Web.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\Antlr3.Runtime.dll
+D:\Git\Bz\SimpleDemo.Web\bin\AutoMapper.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Bz.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Bz.EntityFramework.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Bz.Owin.dll
@@ -295,7 +298,6 @@ D:\Git\Bz\SimpleDemo.Web\bin\EntityFramework.SqlServer.dll
 D:\Git\Bz\SimpleDemo.Web\bin\log4net.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.AspNet.Identity.Core.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.AspNet.Identity.Owin.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.Owin.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
@@ -327,7 +329,10 @@ D:\Git\Bz\SimpleDemo.Web\bin\WebGrease.dll
 D:\Git\Bz\SimpleDemo.Web\bin\EntityFramework.DynamicFilters.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Nito.AsyncEx.dll
 D:\Git\Bz\SimpleDemo.Web\bin\System.Collections.Immutable.dll
+D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Dapper.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Nito.AsyncEx.Enlightenment.dll
+D:\Git\Bz\SimpleDemo.Web\bin\Bz.Dapper.dll
+D:\Git\Bz\SimpleDemo.Web\bin\Dapper.dll
 D:\Git\Bz\SimpleDemo.Web\bin\Bz.EntityFramework.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\Bz.Owin.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\Bz.Web.Api.pdb
@@ -338,6 +343,9 @@ D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Application.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Core.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.EntityFramework.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.WebApi.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\AutoMapper.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\AutoMapper.xml
+D:\Git\Bz\SimpleDemo.Web\bin\AutoMapper.Net4.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\Castle.Core.xml
 D:\Git\Bz\SimpleDemo.Web\bin\Castle.Facilities.Logging.xml
 D:\Git\Bz\SimpleDemo.Web\bin\Castle.Windsor.xml
@@ -371,7 +379,11 @@ D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Git\Bz\SimpleDemo.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Git\Bz\SimpleDemo.Web\bin\Nito.AsyncEx.xml
 D:\Git\Bz\SimpleDemo.Web\bin\System.Collections.Immutable.xml
+D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Dapper.pdb
 D:\Git\Bz\SimpleDemo.Web\bin\Nito.AsyncEx.Enlightenment.xml
+D:\Git\Bz\SimpleDemo.Web\bin\Bz.Dapper.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\Dapper.pdb
+D:\Git\Bz\SimpleDemo.Web\bin\Dapper.xml
 D:\Git\Bz\SimpleDemo.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
 D:\Git\Bz\SimpleDemo.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
 D:\Git\Bz\SimpleDemo.Web\bin\zh-Hans\System.Web.Optimization.resources.dll
@@ -397,10 +409,3 @@ D:\Git\Bz\SimpleDemo.Web\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.re
 D:\Git\Bz\SimpleDemo.Web\obj\Debug\SimpleDemo.Web.csprojResolveAssemblyReference.cache
 D:\Git\Bz\SimpleDemo.Web\obj\Debug\SimpleDemo.Web.dll
 D:\Git\Bz\SimpleDemo.Web\obj\Debug\SimpleDemo.Web.pdb
-D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Dapper.dll
-D:\Git\Bz\SimpleDemo.Web\bin\Bz.Dapper.dll
-D:\Git\Bz\SimpleDemo.Web\bin\Dapper.dll
-D:\Git\Bz\SimpleDemo.Web\bin\SimpleDemo.Dapper.pdb
-D:\Git\Bz\SimpleDemo.Web\bin\Bz.Dapper.pdb
-D:\Git\Bz\SimpleDemo.Web\bin\Dapper.pdb
-D:\Git\Bz\SimpleDemo.Web\bin\Dapper.xml

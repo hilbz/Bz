@@ -1,10 +1,12 @@
 ﻿using SimpleDemo.Application;
+using SimpleDemo.Web.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using AutoMapper;
 
 namespace SimpleDemo.Web.Controllers
 {
@@ -27,9 +29,13 @@ namespace SimpleDemo.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
+            SourceEntity source = new SourceEntity() {
+                Id = 1,
+                Name="Lbz"
+            };
+            DestEntity dest = Mapper.Map<DestEntity>(source);
+            
+            return Content("Lbz");
         }
 
         public ActionResult Contact()
