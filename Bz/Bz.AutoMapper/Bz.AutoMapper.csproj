@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoMapper\AutoMapAttribute.cs" />
+    <Compile Include="AutoMapper\AutoMapDirection.cs" />
     <Compile Include="AutoMapper\Startup\BzAutoMapperModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
