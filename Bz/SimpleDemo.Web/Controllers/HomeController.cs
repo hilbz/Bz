@@ -34,7 +34,14 @@ namespace SimpleDemo.Web.Controllers
                 Name="Lbz"
             };
             DestEntity dest = Mapper.Map<DestEntity>(source);
-            
+
+            SourceEntity source1 = new SourceEntity()
+            {
+                Id = 2,
+                Name = "Lbz2"
+            };
+            dest = Mapper.Map<DestEntity>(source1);
+
             return Content("Lbz");
         }
 
